@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-logentries",
+  "version": "1.0.0",
+  "description": "Unofficial plugin for [LogEntries](https://logentries.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justfork-repos/cordova-plugin-logentries.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justfork-repos/cordova-plugin-logentries/issues"
+  },
+  "homepage": "https://github.com/justfork-repos/cordova-plugin-logentries#readme"
+}
